@@ -1,6 +1,6 @@
 // Encryption
 
-let alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZ";
+let alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJ";
 
 function ubahHuruf (sentence) {
     let len = sentence.length;

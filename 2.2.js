@@ -10,10 +10,6 @@ for (let i = 1; i <= bilangan; i++) {
     }
 }
 
-// Factor
-
-// input
-let bilangan = 20;
 
 // process
 for (let i = bilangan; i >= 1; i--) {

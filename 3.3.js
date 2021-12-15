@@ -13,4 +13,4 @@ function cetakTablePerkalian (n) {
     }
 }
 
-cetakTablePerkalian(7);
+cetakTablePerkalian(9);
